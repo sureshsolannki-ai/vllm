@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Deeptech / General AI infrastructure
+**Domain:** AI Foundation & Infra
 **Upstream:** https://github.com/vllm-project/vllm
 **Fork:** https://github.com/sureshsolannki-ai/vllm
 **Priority:** Med
